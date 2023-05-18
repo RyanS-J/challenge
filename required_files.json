@@ -1,7 +1,8 @@
 [
     {
         "protocol": "https",
-        "url": "downloadschalenge.blob.core.windows.net/files/helloworld_383x215.png"
+        "url": "downloadschalenge.blob.core.windows.net/files/helloworld_383x215.png",
+        "output": "retro.png"
     },
     {
         "protocol": "https",
